@@ -38,8 +38,15 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 
+html {
+	width: 100vw;
+	height: 100vh;
+}
+
 body {
 	line-height: 1;
+	width: 100vw;
+	height: 100vh;
 }
 
 ol, ul {
@@ -89,4 +96,24 @@ button, a, Link {
 
 input {
 	cursor: url('../../img/cursor-input.svg'), auto;
+}
+
+.no-mobile {
+	background: url('../../img/space.svg');
+	position: absolute;
+	top: 0;
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	padding-top: 30px;
+	font-size: 30px;
+	font-family: 'DungGeunMo';
+	color: white;
+}
+
+@media screen and (min-width: 1000px) {
+	.no-mobile {
+		display: none;
+	}
 }

@@ -4,6 +4,8 @@ const Container = styled.div`
   box-sizing: border-box;
   color: white;
   font-family: 'DungGeunMo';
+  width: 100vw;
+  height: 100vh;
 
   @keyframes fadein {
     from { 
