@@ -14,7 +14,7 @@ export async function fetchDailyBoxOfficeList({ date }) {
 }
 
 export async function fetchDetailMovieInfo(movie) {
-  const url = 'https://openapi.naver.com/v1/search/movie.json'
+  const url = '/v1/search/movie.json'
     + `?query=${movie}&display=10`;
   const response = await axios.get(url, {
     headers: {
@@ -26,7 +26,7 @@ export async function fetchDetailMovieInfo(movie) {
 }
 
 export async function fetchMusic(searchedMovie) {
-  const url = 'https://www.googleapis.com/youtube/v3/search';
+  const url = '/v3/search';
   const response = await axios.get(url, {
     params: {
       part: 'snippet',
