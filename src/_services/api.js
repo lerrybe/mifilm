@@ -3,7 +3,7 @@ import axios from 'axios';
 const KOFIC_API_KEY = process.env.REACT_APP_KOFIC_API_KEY;
 const NAVER_MOVIE_CLIENT_ID = process.env.REACT_APP_NAVER_MOVIE_CLIENT_ID;
 const NAVER_MOVIE_CLIENT_SECRET = process.env.REACT_APP_NAVER_MOVIE_CLIENT_SECRET;
-const YOUTUBE_API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY_FIRST;
+const YOUTUBE_API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY_SECOND;
 
 export async function fetchDailyBoxOfficeList({ date }) {
   const url = 'http://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json'
