@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mifilm/static/css/main.be6c3164.css",
+    "main.js": "/mifilm/static/js/main.f6ab5f95.js",
+    "static/media/space.svg": "/mifilm/static/media/space.2e2dfb6b24e2cacf90e5.svg",
+    "static/media/character.svg": "/mifilm/static/media/character.e5a2c198ed9b0e0aa212238a1f6047de.svg",
+    "static/media/react.svg": "/mifilm/static/media/react.d1dd0aeceb502dd017dff7ebf66fe326.svg",
+    "static/media/boxoffice.svg": "/mifilm/static/media/boxoffice.15ad7b93b2720285d6df8359ba8399cd.svg",
+    "static/media/home.svg": "/mifilm/static/media/home.75a257f293d1060b3082921e439398ec.svg",
+    "static/media/github.svg": "/mifilm/static/media/github.e30dd09b503ebdc9eb0a37d7cc81d4fc.svg",
+    "static/media/search.svg": "/mifilm/static/media/search.3788504adbb14c4319979430bb8e3898.svg",
+    "static/media/myost.svg": "/mifilm/static/media/myost.5c33b588921c7cd2ef771615adc82665.svg",
+    "static/media/velog.svg": "/mifilm/static/media/velog.b288560a41058312e658c56b3eb6116b.svg",
+    "static/media/cursor-select.svg": "/mifilm/static/media/cursor-select.fd49c618035415c1d3cbe7f327e4a50c.svg",
+    "static/media/cursor.svg": "/mifilm/static/media/cursor.8236bef7f8fe13f378d7.svg",
+    "static/media/cursor-input.svg": "/mifilm/static/media/cursor-input.55daeff4db392e499c4d.svg",
+    "static/media/sound.svg": "/mifilm/static/media/sound.b9c74b885d7b1a12f472487e16d6030f.svg",
+    "index.html": "/mifilm/index.html",
+    "main.be6c3164.css.map": "/mifilm/static/css/main.be6c3164.css.map",
+    "main.f6ab5f95.js.map": "/mifilm/static/js/main.f6ab5f95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be6c3164.css",
+    "static/js/main.f6ab5f95.js"
+  ]
+}
