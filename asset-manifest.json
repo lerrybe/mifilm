@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mifilm/static/css/main.be6c3164.css",
-    "main.js": "/mifilm/static/js/main.f6ab5f95.js",
+    "main.js": "/mifilm/static/js/main.478a53be.js",
     "static/media/space.svg": "/mifilm/static/media/space.2e2dfb6b24e2cacf90e5.svg",
     "static/media/character.svg": "/mifilm/static/media/character.e5a2c198ed9b0e0aa212238a1f6047de.svg",
     "static/media/react.svg": "/mifilm/static/media/react.d1dd0aeceb502dd017dff7ebf66fe326.svg",
@@ -17,10 +17,10 @@
     "static/media/sound.svg": "/mifilm/static/media/sound.b9c74b885d7b1a12f472487e16d6030f.svg",
     "index.html": "/mifilm/index.html",
     "main.be6c3164.css.map": "/mifilm/static/css/main.be6c3164.css.map",
-    "main.f6ab5f95.js.map": "/mifilm/static/js/main.f6ab5f95.js.map"
+    "main.478a53be.js.map": "/mifilm/static/js/main.478a53be.js.map"
   },
   "entrypoints": [
     "static/css/main.be6c3164.css",
-    "static/js/main.f6ab5f95.js"
+    "static/js/main.478a53be.js"
   ]
 }
