@@ -102,11 +102,10 @@ input {
 	background: url('../../img/space.svg');
 	position: absolute;
 	top: 0;
-	height: 100vh;
-	width: 100vw;
+	height: 250vh;
+	width: 300vw;
 	display: flex;
-	justify-content: center;
-	padding-top: 30px;
+	padding: 30px;
 	font-size: 30px;
 	font-family: 'DungGeunMo';
 	color: white;
